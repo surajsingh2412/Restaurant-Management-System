@@ -1,0 +1,9 @@
+.btn btn--primary btn--medium {
+    display: block;
+    background-color: var(--primary);
+    /* color: #242424; */
+    color: aliceblue;
+    border: 1px solid var(--primary);
+    
+  }
+  

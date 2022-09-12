@@ -1,0 +1,48 @@
+{
+  "name": "navbar-dropdown-v1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "4.12.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "13.3.0",
+    "@testing-library/react-native": "11.0.0",
+    "@testing-library/user-event": "^7.1.2",
+    "@thisisagile/easy-test-react": "12.0.6",
+    "axios": "^0.27.2",
+    "easy-firebase-functions": "1.5.0",
+    "firebase": "9.9.3",
+    "fs": "^0.0.1-security",
+    "react": "18.3.0-next-7a4336c40-20220712",
+    "react-access-router": "2.0.12",
+    "react-bootstrap": "2.5.0",
+    "react-bootstrap-buttons": "1.0.0",
+    "react-dom": "18.3.0-next-dd2d65227-20220708",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.4.29"
+    
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

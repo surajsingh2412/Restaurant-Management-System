@@ -1,0 +1,22 @@
+{
+  "mains": [
+    {
+      "dishId": "1",
+      "name": "Samosa",
+      "description": "Veg",
+      "price": "10"
+    },
+    {
+      "dishId": "2",
+      "name": "Pizza",
+      "description": "Veg",
+      "price": "180"
+    },
+    {
+      "dishId": "3",
+      "name": "Chilli Chicken",
+      "description": "NonVeg",
+      "price": "300"
+    }
+  ]
+}

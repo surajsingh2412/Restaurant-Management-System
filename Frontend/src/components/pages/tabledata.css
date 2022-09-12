@@ -1,0 +1,96 @@
+.TT{
+  width: 50%;
+  margin-top: 7%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  margin-bottom: 9%;
+}
+.ordertable{
+  width: 50%;
+  margin-top: 7%;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  margin-bottom: 7%;
+
+}
+ 
+.ADDBUTTON{
+ 
+  margin-bottom: 40px;
+  
+} 
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: black;
+  color: white;
+}
+tr:nth-child(odd){background-color:aliceblue} 
+
+.update{
+  margin-right: auto;
+  width : 300px;
+  margin-left: auto;
+  padding-left: 65px;
+  padding-top: 10px;
+  border: 1px solid white;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  
+}
+
+ .in{
+  background-color:#312951 ;
+  color: #f2f2f2;
+
+}
+
+.surajsirji{
+  display: flex;
+  margin-left: 33%;
+  
+ margin-bottom: 30px;
+ 
+}
+
+
+.combined{
+  display: flex;
+  
+
+}
+
+.update2{
+ 
+  width : 300px;
+  margin-left: 20px;
+  margin-right: 30px;
+  padding-left: 45px;
+  padding-top: 10px;
+  border: 1px solid white;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  
+}
+
+.surajsirji2{
+  display: flex;
+ margin-left: 28%; 
+ margin-bottom: 30px;
+ 
+}
+
+
+.Add2{
+
+  margin-left: 45%;
+  
+ 
+}

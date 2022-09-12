@@ -1,0 +1,76 @@
+
+.inventory{
+    width: 40%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-bottom: 8%;
+    height: 20%;
+  }
+ 
+  
+  th, td {
+    text-align: center;
+    padding: 8px;
+    
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: black;
+    color: white;
+    
+  }
+  tr:nth-child(odd){background-color:aliceblue} 
+  
+  
+  
+  .combined{
+    display: flex;
+
+
+  }
+
+  .update1{
+    margin-right: auto;
+    width : 300px;
+    margin-left: 30px;
+    padding-left: 65px;
+    padding-top: 10px;
+    border: 1px solid white;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    
+  }
+  
+   .in{
+    background-color:#312951 ;
+    color: #f2f2f2;
+  
+  }
+
+
+  .Add1{
+    
+    margin-left: 350px;
+    border-radius: 5px;
+    height: 40px;
+    background-color: black;
+    margin-bottom: 5%;
+    border-color: none;
+  }
+
+
+  @media screen and (max-width: 820px) {
+    .combined{display: grid;}
+    .Add1{
+  
+      border-radius: 5px;
+      height: 40px;
+      background-color: black;
+      margin-bottom: 5%;
+      border-color: none;
+    }
+  }

@@ -1,0 +1,72 @@
+.SignUp {
+  font-family: sans-serif;
+  gap: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #312951;
+  margin-top: 20px;
+ 
+  align-self: auto;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  width: 150px;
+}
+
+input[type="submit"] {
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #473d72;
+  border: 1px solid #01d28e;
+  color: #fff;
+  padding: 10px;
+}
+
+input[type="submit"]:hover {
+  background: black;
+  color: aliceblue;
+}
+.checkbox {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.login-form {
+  background-color: white;
+  padding: 2rem;
+  width: 450px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  align-self: center;
+  border-radius: 8px;
+}
+
+.list-container {
+  display: flex;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+.title {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px;
+}
